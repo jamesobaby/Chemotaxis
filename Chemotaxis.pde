@@ -12,6 +12,7 @@ void setup() {
     }
 }
 
+
 void draw() {
     background(255); // Clear the background each frame
 
